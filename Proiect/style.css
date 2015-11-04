@@ -1,0 +1,55 @@
+/* FISIER STYLESHEET */
+body {
+    background-color: palegreen;
+}
+
+.firstp {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 23;
+    color: aqua;
+    background-color: black;
+    text-transform: lowercase;
+    text-decoration: line-through;
+    font-style: oblique;
+}
+
+h1 {
+    font-family: "Arial", cursive, sans-serif;
+    color: blue;
+}
+
+    
+.hdoi {
+    color: red;
+}
+
+#t1 {
+    background-color: red;
+    padding: 10 10 10 10;
+    text-align:center;
+}
+
+th {
+    text-align: right;
+    background-color: bisque;
+}
+
+.divunu {
+    position:relative;
+    background-color: red;
+    top: 50px;
+    left: 40px;
+    width: 300px;
+    border: solid black 6px;
+}
+
+a:link.links {
+    color:black;
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+a:visited.links {
+    color:white;
+    text-transform: lowercase;
+}
